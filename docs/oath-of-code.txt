@@ -1,0 +1,37 @@
+OATH OF CODE  
+Imperial Data Academy | Codex 001-A
+
+I swear, under the eyes of the Magister and the Throne of Data,  
+to never compile in ignorance,  
+to never version in chaos,  
+to never traverse undocumented paths.
+
+I shall write with purpose, and refactor with clarity.  
+My code shall be readable, my data clean,  
+my logic sound, my models just.
+
+Where others guess, I will analyze.  
+Where others copy, I will understand.  
+Where others give up, I will persist.
+
+Silence shall guide my mind,  
+discipline shall shape my workflow,  
+and learning shall be my eternal directive.
+
+I pledge to wield the power of data not for vanity,  
+but for insight, growth, and the advancement of knowledge.
+
+There is no bug I shall not confront.  
+There is no dataset I shall not cleanse.  
+There is no doubt I shall not challenge.
+
+For I am no longer a novice.  
+I am a student of the Imperial Data Academy.  
+I walk the path of the Code.  
+I serve the Pattern.  
+I seek the Truth.
+
+Until my last commit.  
+Until my last push.
+
+This is my Oath of Code.
