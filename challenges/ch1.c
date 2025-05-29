@@ -1,3 +1,4 @@
+
 /*
 📦 Mission 01 – Declaration and Initialization
 
@@ -47,7 +48,7 @@ int main()
     printf("A char is a fundamental data type that stores a single character (such as a letter, number, or symbol).\nWhen you declare a char type followed by square brackets and a number (for example, char name[50];),\nyou are creating an array (or vector) of characters.\nThis number specifies the number of positions the array will have, allowing it to store a sequence of\ncharacters, which is commonly referred to as a string.");
 
     printf("\nEnter your name as Inquisitor: ");
-    scanf("%c", charNum);
+    scanf("%[^\n]", charNum);
     printf("\nEnter your age: ");
     scanf("%d", &intNum);
     printf("\nEnter your high: ");
@@ -57,7 +58,7 @@ int main()
     // Double has the way of addressing lf precisely because it is a longfloat, that is, double and longfloat are the same thing.
 
     printf("\nComplete imperial record...");
-    printf("\nHis name was:%c Now he is a candidate for servant of the empire.", charNum);
+    printf("\nHis name was:%s Now he is a candidate for servant of the empire.", charNum);
     printf("\nYour age was: %d now it is -1 year because soon you will be born as a servant of the empire.", intNum);
     printf("\nHis height was: %f Now it is irrelevant.", floatNum);
 /*
