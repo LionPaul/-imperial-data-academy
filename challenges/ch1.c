@@ -61,6 +61,7 @@ int main()
     printf("\nHis name was:%s Now he is a candidate for servant of the empire.", charNum);
     printf("\nYour age was: %d now it is -1 year because soon you will be born as a servant of the empire.", intNum);
     printf("\nHis height was: %f Now it is irrelevant.", floatNum);
+    printf("\nWeight: %.2lf kg — Subject to reduction due to rations.\n", doubleNum);
 /*
 
 His height was: Now it is irrelevant.
