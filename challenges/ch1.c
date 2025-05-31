@@ -49,10 +49,13 @@ int main()
 
     printf("\nEnter your name as Inquisitor: ");
     scanf("%[^\n]", charNum);
+
     printf("\nEnter your age: ");
     scanf("%d", &intNum);
+
     printf("\nEnter your high: ");
     scanf("%f", &floatNum);
+    
     printf("\nEnter your Weight: ");
     scanf("%lf", &doubleNum);
     // Double has the way of addressing lf precisely because it is a longfloat, that is, double and longfloat are the same thing.
@@ -60,7 +63,7 @@ int main()
     printf("\nComplete imperial record...");
     printf("\nHis name was:%s Now he is a candidate for servant of the empire.", charNum);
     printf("\nYour age was: %d now it is -1 year because soon you will be born as a servant of the empire.", intNum);
-    printf("\nHis height was: %f Now it is irrelevant.", floatNum);
+    printf("\nHis height was: %.2f Now it is irrelevant.", floatNum);
     printf("\nWeight: %.2lf kg — Subject to reduction due to rations.\n", doubleNum);
 /*
 
